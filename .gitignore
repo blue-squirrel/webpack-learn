@@ -1,0 +1,4 @@
+.DS_Store
+*de_modules/
+*/dist/
+npm-debug.log
