@@ -6,6 +6,7 @@ class Test {
     }
   
     renderImg() {
+      document.iii('hello world')
       const img = document.createElement('img')
       img.src = '../public/lol.png'
       document.body.appendChild(img)
